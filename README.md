@@ -3,3 +3,7 @@ The image expected by roborazzi:
 
 The actual image after updating to `1.44.0-alpha01`
 <img width="1078" height="66" alt="image" src="https://github.com/user-attachments/assets/9859cc1c-0833-480a-95fd-313bddd17377" />
+
+---
+
+issue: https://github.com/takahirom/roborazzi/issues/768
